@@ -1,8 +1,7 @@
 # Vote app 
 
 ## screenshot
-
-[App截图](http://7xo4sa.com1.z0.glb.clouddn.com/voteapp.png)
+![App截图](http://7xo4sa.com1.z0.glb.clouddn.com/voteapp.png)
 
 ## Folder Structure
 
